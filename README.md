@@ -1,4 +1,4 @@
-1. php.ini codes
+##1. php.ini codes
 ===============
 upload_max_filesize = 256M
 post_max_size = 256M
