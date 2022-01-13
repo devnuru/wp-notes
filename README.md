@@ -1,5 +1,6 @@
 ## 1. php.ini codes
 ===============
+<br />
 upload_max_filesize = 256M
 post_max_size = 256M
 memory_limit = 256M
